@@ -1,0 +1,27 @@
+body{
+        background-color: bisque;
+        text-align: center;
+
+}
+#navbar{
+        
+        padding-left: 20px;
+        margin-top: 20px;
+        background-color: black;
+        color :rgb(236, 240, 244);
+
+}
+ul
+{
+        list-style-type: none;
+        display: flex;
+
+
+
+
+        
+}
+li{
+        margin-left: 100px;
+justify-content: space-between;
+}
